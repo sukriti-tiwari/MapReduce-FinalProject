@@ -1,0 +1,18 @@
+scenario1	80
+scenario1	75
+scenario1	55
+scenario1	50
+scenario2	90
+scenario2	80
+scenario2	65
+scenario2	55
+scenario3	100
+scenario3	85
+scenario3	75
+scenario3	65
+scenario4	100
+scenario4	85
+scenario4	75
+scenario4	70
+
+

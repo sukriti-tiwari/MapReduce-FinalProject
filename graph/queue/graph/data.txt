@@ -1,0 +1,14 @@
+scenario1	58
+scenario1	65
+scenario1	151
+scenario1	170
+scenario2	555
+scenario2	63
+scenario2	143
+scenario2	65
+scenario3	10
+scenario3	20
+scenario3	60
+scenario3	80
+
+
